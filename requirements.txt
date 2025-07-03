@@ -1,0 +1,65 @@
+============================================================
+CV Parser and Job Recommender System – Requirements
+============================================================
+
+This project is divided into two main parts:
+1. Backend (Python – FastAPI, Scrapy, Selenium, ML)
+2. Frontend (React, Vite, Tailwind CSS, Supabase)
+
+-------------------------
+BACKEND REQUIREMENTS (Python)
+-------------------------
+
+# Web Framework and API
+fastapi
+uvicorn[standard]
+fastapi[all]
+python-multipart
+
+# Resume Parsing
+pandas
+numpy
+PyMuPDF
+pdfminer.six
+python-docx
+
+# Machine Learning and Model Training
+scikit-learn
+joblib
+
+# Web Scraping (for job listings)
+scrapy
+selenium
+beautifulsoup4
+fake-useragent
+lxml
+requests
+
+# Utility
+python-dotenv
+
+To install backend requirements:
+> pip install -r requirements.txt
+
+
+-------------------------
+FRONTEND REQUIREMENTS (Node.js)
+-------------------------
+
+To run the frontend, Node.js and npm must be installed.
+All dependencies are listed in the frontend folder's `package.json`.
+
+Key frontend libraries used:
+- react
+- react-dom
+- react-router-dom
+- vite
+- tailwindcss
+- @supabase/supabase-js
+- axios
+- postcss
+- autoprefixer
+
+To install frontend dependencies:
+> cd frontend
+> npm install
