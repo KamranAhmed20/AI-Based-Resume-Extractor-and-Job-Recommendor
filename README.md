@@ -9,6 +9,12 @@
 [![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)](https://scrapy.org/)
 [![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red?style=for-the-badge)](#license)
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=AI-Powered+Resume+Analysis;Smart+Job+Matching;Automated+Career+Guidance" alt="Typing SVG" />
+</p>
+
+
 > An intelligent CV parsing and job recommendation system that helps job seekers find relevant opportunities using AI and machine learning.
 
 ## Table of Contents
